@@ -1,0 +1,1 @@
+This project aims to develop a Python implementation of the OMA IMPS CSP 1.1 / 1.2 / 1.3 protocol. The implementation must be able to run on standard Python as well as PyS60, the Symbian Series 60 implementation of python. The library can then be used to develop IMPS compatible Instant Messaging clients on PC's and mobiles.
